@@ -1,0 +1,19 @@
+h1,h3,h4,h5
+{
+	font-size: 25pt;
+	color: green;
+	font-family:arial;
+	
+}
+p
+{
+	font-size: 40pt;
+	color: orange;
+	font-family:helvetica;
+}
+h2
+{
+    font-size: 18pt;
+	color: red;	
+}
+

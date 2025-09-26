@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+p.ex1{margin-right:150px;}
+</style>
+</head>
+<body>
+<h1>the margin right property</h1>
+<p> a paragraph  with no margins specified a paragraph with no margin specified.
+a paragraph with no margin specified</p>
+<p class="ex1">a paragraph with a 150px right margin.a paragraph with a 150px right margin.
+a paragraph with a 150px right margin.</p>
+</body>
+</html>
